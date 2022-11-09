@@ -1,0 +1,12 @@
+cors: false
+debug: false
+folder: /web
+host: ""
+port: 8080
+referrers: []
+show-listing: true
+tls-cert: ""
+tls-key: ""
+tls-min-vers: ""
+url-prefix: ""
+access-key: ""
